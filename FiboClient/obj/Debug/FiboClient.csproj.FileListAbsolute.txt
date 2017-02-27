@@ -1,0 +1,8 @@
+D:\FiboSvc\FiboClient\bin\Debug\FiboClient.exe.config
+D:\FiboSvc\FiboClient\bin\Debug\FiboClient.exe
+D:\FiboSvc\FiboClient\bin\Debug\FiboClient.pdb
+D:\FiboSvc\FiboClient\obj\Debug\FiboClient.csprojResolveAssemblyReference.cache
+D:\FiboSvc\FiboClient\obj\Debug\FiboClient.exe
+D:\FiboSvc\FiboClient\obj\Debug\FiboClient.pdb
+D:\FiboSvc\FiboClient\bin\Debug\Newtonsoft.Json.dll
+D:\FiboSvc\FiboClient\bin\Debug\Newtonsoft.Json.xml
