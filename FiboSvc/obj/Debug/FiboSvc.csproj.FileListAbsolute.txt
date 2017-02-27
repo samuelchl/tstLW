@@ -1,0 +1,72 @@
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\ApplicationInsights.config
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\csc.exe
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\Microsoft.CSharp.Core.targets
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\System.Collections.Immutable.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\System.Reflection.Metadata.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\vbc.exe
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\VBCSCompiler.exe
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\roslyn\VBCSCompiler.exe.config
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\FiboSvc.dll.config
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\FiboSvc.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\FiboSvc.pdb
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.Agent.Intercept.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.DependencyCollector.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.PerfCounterCollector.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.Web.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.WindowsServer.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.ApplicationInsights.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.DependencyCollector.xml
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.Web.xml
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.AI.WindowsServer.xml
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.ApplicationInsights.xml
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\obj\Debug\FiboSvc.csprojResolveAssemblyReference.cache
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\obj\Debug\FiboSvc.dll
+p:\visual studio 2015\Projects\FiboSvc\FiboSvc\obj\Debug\FiboSvc.pdb
+P:\Visual Studio 2015\Projects\FiboSvc\FiboSvc\bin\Newtonsoft.Json.dll
+P:\Visual Studio 2015\Projects\FiboSvc\FiboSvc\bin\Newtonsoft.Json.xml
+D:\FiboSvc\FiboSvc\bin\ApplicationInsights.config
+D:\FiboSvc\FiboSvc\bin\roslyn\csc.exe
+D:\FiboSvc\FiboSvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FiboSvc\FiboSvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FiboSvc\FiboSvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FiboSvc\FiboSvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FiboSvc\FiboSvc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FiboSvc\FiboSvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FiboSvc\FiboSvc\bin\roslyn\System.Collections.Immutable.dll
+D:\FiboSvc\FiboSvc\bin\roslyn\System.Reflection.Metadata.dll
+D:\FiboSvc\FiboSvc\bin\roslyn\vbc.exe
+D:\FiboSvc\FiboSvc\bin\roslyn\VBCSCompiler.exe
+D:\FiboSvc\FiboSvc\bin\roslyn\VBCSCompiler.exe.config
+D:\FiboSvc\FiboSvc\bin\FiboSvc.dll.config
+D:\FiboSvc\FiboSvc\bin\FiboSvc.dll
+D:\FiboSvc\FiboSvc\bin\FiboSvc.pdb
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.DependencyCollector.dll
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.Web.dll
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.WindowsServer.dll
+D:\FiboSvc\FiboSvc\bin\Microsoft.ApplicationInsights.dll
+D:\FiboSvc\FiboSvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FiboSvc\FiboSvc\bin\Newtonsoft.Json.dll
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.DependencyCollector.xml
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.Web.xml
+D:\FiboSvc\FiboSvc\bin\Microsoft.AI.WindowsServer.xml
+D:\FiboSvc\FiboSvc\bin\Microsoft.ApplicationInsights.xml
+D:\FiboSvc\FiboSvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FiboSvc\FiboSvc\bin\Newtonsoft.Json.xml
+D:\FiboSvc\FiboSvc\obj\Debug\FiboSvc.csprojResolveAssemblyReference.cache
+D:\FiboSvc\FiboSvc\obj\Debug\FiboSvc.dll
+D:\FiboSvc\FiboSvc\obj\Debug\FiboSvc.pdb
+D:\FiboSvc\FiboSvc\bin\log4net.dll
+D:\FiboSvc\FiboSvc\bin\log4net.xml
